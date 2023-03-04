@@ -1,5 +1,5 @@
-var telegram_bot_id = "5267888448:AAEHyLBqIp9fsqAuctKn31XbPR4UxGPhimA";
-var chat_id = 712117665;
+var telegram_bot_id = "DA MODIFICARE";
+var chat_id = DA MODIFICARE;
 
 function sendtelegram () {
 var nome, Phone, nump,data;
